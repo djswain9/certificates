@@ -1,6 +1,6 @@
 # Certificates
 
-## NES-2022
+## Nanotechnology & Embedded System
 <p align="center">
   <img src="/photos/NES_2021.jpg">
 </p>

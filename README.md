@@ -1,6 +1,6 @@
 # Certificates
 
-## Nanotechnology & Embedded System
+## Nanotechnology and Embedded System
 <p align="center">
   <img src="/photos/NES_2021.jpg">
 </p>

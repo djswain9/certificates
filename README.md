@@ -10,6 +10,11 @@
   <img src="/photos/Digital_CMOS_VLSI.jpg">
 </p>
 
+## Frontend Fundamental
+<p align="center">
+  <img src="/photos/frontend_fundamental.jpg">
+</p>
+
 ## Profile Using HTML and CSS
 <p align="center">
   <img src="/photos/portfolio_using_html&css.jpg">
